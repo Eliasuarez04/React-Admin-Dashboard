@@ -26,7 +26,7 @@ To run this administrative panel locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Eliasuarez04/react-admin-dashboard.git](https://github.com/Eliasuarez04/react-admin-dashboard.git)
+   git clone [https://github.com/Eliasuarez04/React-Admin-Dashboard.git](https://github.com/Eliasuarez04/React-Admin-Dashboard.git)
 
 2. Navigate to the directory:
    cd react-admin-dashboard
